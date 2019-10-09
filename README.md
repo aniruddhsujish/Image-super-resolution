@@ -11,8 +11,7 @@ Learning Phase 1:
 Learning Phase 2:
 - [x] Learning how to use different tools for Deep Learning like NumPy and Keras.
 
-Learning Phase 3:
-- [ ] Implementation Phase:
+Implementation Phase: 3:
 - [ ] Implementing the proposed CNN.
 
 Learning phase 4:
