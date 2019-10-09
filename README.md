@@ -4,12 +4,12 @@ Code for the IT204 project - Image super-resolution and De-blurring
 The original paper - [Image Super resolution and Deblurring using Deep CNN](https://ieeexplore.ieee.org/document/8516983)
 
 Learning Phase 1:
-- [ ] Getting familiar with different Machine learning models.
-- [ ] Understanding the workings of a Basic Neural Network.
+- [x] Getting familiar with different Machine learning models.
+- [x] Understanding the workings of a Basic Neural Network.
 - [ ] Implementing simple a simple CNN to better understand CNNs.  
 
 Learning Phase 2:
-- [ ] Learning how to use different tools for Deep Learning like NumPy and Keras.
+- [x] Learning how to use different tools for Deep Learning like NumPy and Keras.
 
 Learning Phase 3:
 - [ ] Implementation Phase:
