@@ -6,7 +6,7 @@ The original paper - [Image Super resolution and Deblurring using Deep CNN](http
 Learning Phase 1:
 - [x] Getting familiar with different Machine learning models.
 - [x] Understanding the workings of a Basic Neural Network.
-- [ ] Implementing simple a simple CNN to better understand CNNs.  
+- [x] Implementing simple a simple CNN to better understand CNNs.  
 
 Learning Phase 2:
 - [x] Learning how to use different tools for Deep Learning like NumPy and Keras.
