@@ -12,10 +12,10 @@ Learning Phase 2:
 - [x] Learning how to use different tools for Deep Learning like NumPy and Keras.
 
 Implementation Phase: 3:
-- [ ] Implementing the proposed CNN.
+- [x] Implementing the proposed CNN.
 
 Learning phase 4:
-- [ ] Debugging and Code-Optimization.
-- [ ] Improvement Phase:
+- [x] Debugging and Code-Optimization.
+- [x] Improvement Phase:
 Using new data to check the network’s performance and carry out minor
 improvements if possible.
